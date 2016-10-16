@@ -7,11 +7,21 @@
 #+INCLUDE: "../900-Deliverables/narrative.org"     :minlevel 2
 * Current State
 #+INCLUDE: "../100-Architecture/current-state.org" :minlevel 2
+* Timeline
+#+INCLUDE: "../900-Deliverables/timeline.org"      :minlevel 2
 * Requirements
 #+INCLUDE: "../900-Deliverables/requirements.org"  :minlevel 2
 * Architecture Priorities
 #+INCLUDE: "../100-Architecture/priorities.org"    :minlevel 2
 * Future State
 #+INCLUDE: "../100-Architecture/future-state.org"  :minlevel 2
+* Production Pipeline
+#+INCLUDE: "../200-Production-Pipeline/section-master.org" :minlevel 2
+* Infrastructure
+#+INCLUDE: "../300-Infrastructure/section-master.org" :minlevel 2
+* Operations
+#+INCLUDE: "../400-Operations/section-master.org"  :minlevel 2
+* Services
+#+INCLUDE: "../500-Services/section-master.org"    :minlevel 2
 * GUI Mockups
-#+INCLUDE: "../900-Deliverables/mockups.org"        :minlevel 2
+#+INCLUDE: "../900-Deliverables/mockups.org"       :minlevel 2
