@@ -25,3 +25,5 @@
 #+INCLUDE: "../500-Services/section-master.org"    :minlevel 2
 * GUI Mockups
 #+INCLUDE: "../900-Deliverables/mockups.org"       :minlevel 2
+* Appendix A: Glossary
+#+INCLUDE: "../900-Deliverables/glossary.org"      :minlevel 2
