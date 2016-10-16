@@ -1,0 +1,8 @@
+#+OPTIONS:   H:4 num:nil toc:nil
+
+* About this folder
+
+This is the project folder for the XXXXXX architecture project.
+
+The content is primarily in org-mode files. Start with
+[[file:./900-Deliverables/master.html]] for a top-down document-centric view.
