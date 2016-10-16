@@ -1,0 +1,17 @@
+#+TITLE: System Architecture Document
+#+LANGUAGE:  en
+#+OPTIONS:   H:4 num:nil toc:2
+#+SETUPFILE: ../setup/theme-readtheorg-local.setup
+
+* Introduction
+#+INCLUDE: "../900-Deliverables/narrative.org"     :minlevel 2
+* Current State
+#+INCLUDE: "../100-Architecture/current-state.org" :minlevel 2
+* Requirements
+#+INCLUDE: "../900-Deliverables/requirements.org"  :minlevel 2
+* Architecture Priorities
+#+INCLUDE: "../100-Architecture/priorities.org"    :minlevel 2
+* Future State
+#+INCLUDE: "../100-Architecture/future-state.org"  :minlevel 2
+* GUI Mockups
+#+INCLUDE: "../900-Deliverables/mockups.org"        :minlevel 2
